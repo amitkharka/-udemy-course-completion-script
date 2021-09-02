@@ -1,4 +1,4 @@
-# Udemy course completion
+# Udemy course completion script
 
 ## Cookie and Authorization
 copy Cookie and Authorization in authentication.js file. 
